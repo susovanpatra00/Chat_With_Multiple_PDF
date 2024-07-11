@@ -1,6 +1,3 @@
-
-# INFORMATION.md
-
 ## Libraries Used
 
 ### Streamlit
